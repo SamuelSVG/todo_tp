@@ -75,6 +75,7 @@ input {
   margin-bottom: 20px;
   outline: none;
 }
+  
 
 button {
   width: 100%;
