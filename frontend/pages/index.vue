@@ -58,6 +58,7 @@ form {
   margin: auto;
   text-align: center;
 }
+  
 
 input {
   width: 100%;
